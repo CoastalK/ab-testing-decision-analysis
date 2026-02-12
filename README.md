@@ -234,9 +234,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Questions or feedback?** Feel free to reach out:
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@CoastalK](https://github.com/yourusername)
+- LinkedIn: [Kylie Harris]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kylie-harris-168722230 ))
 
 ---
 
